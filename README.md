@@ -63,11 +63,11 @@ the presence or absence of heart disease in patients.
 
 ML-Capstone-Project/
 
- 🗂️data/
- 🗂️notebooks/
- 🗂️results/
-   README.md
- 📄project_report.pdf
+ -🗂️data/
+ -🗂️notebooks/
+ -🗂️results/
+ - README.md
+ -📄project_report.pdf
 
 
 
