@@ -94,7 +94,7 @@ The complete project report is available in `project_report.pdf`.
 - Sara Mohamed Abdelhakam
 - Steven
 - Shaimaa Shaban Khalifa
-- Salma
+- Salma Mahmoud Abdelraoof
 - Methal Safwat Abdelmaboud
 
   
