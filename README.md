@@ -63,22 +63,11 @@ the presence or absence of heart disease in patients.
 
 ML-Capstone-Project/
 │
-├──🗂️data/
-│    └──dataset.csv
-│
-├──🗂️notebooks/
-│    ├──01_EDA_Preprocessing.ipynb
-│    ├──02_Regression.ipynb
-│    ├──03_Classification.ipynb
-│    ├──04_Clustering.ipynb
-│
-├──🗂️results/
-│    ├──elbow_plot.png
-│    ├──confusion_matrix.png
-│    └──clusters_visualization.png
-│
-├──README.md
-└──project_report.pdf
+├── data/
+├── notebooks/
+├── results/
+├── README.md
+└── project_report.pdf
 
 
 
