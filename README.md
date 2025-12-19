@@ -92,7 +92,7 @@ The complete project report is available in `project_report.pdf`.
 ## ✍️ Author
 - Renad Amr Ahmed
 - Sara Mohamed Abdelhakam
-- Steven
+- Steven George Ayad Soliman
 - Shaimaa Shaban Khalifa
 - Salma Mahmoud Abdelraoof
 - Methal Safwat Abdelmaboud
