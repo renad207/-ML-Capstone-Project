@@ -24,6 +24,7 @@ the presence or absence of heart disease in patients.
 - Rows: ~300
 - Features: 14 (Numerical and categorical)
 - Target column (Classification): `target`
+- Target column (Regression) : `oldpeak`
 
 • Numerical Features: age, trestbps, chol, thalach, oldpeak
 • Binary Features: sex, fbs, exang, target
