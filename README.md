@@ -80,10 +80,12 @@ ML-Capstone-Project/
 3. Open the notebooks inside the `notebooks/` folder
 4. Run notebooks in order from 01 to 04
 
----
 
 ## 📄 Final Report
-The complete project report is available in `project_report.pdf`.
+The complete project report is available in :.
+[Ml project report (1).pdf](https://github.com/user-attachments/files/24307558/Ml.project.report.1.pdf)
+
+
 
 🔗 **Google Colab Notebook Link:**  
 (https://colab.research.google.com/drive/1AL2C5Xcbg2PxI5XwnFNkb7xpIvliJ_Ff?usp=sharing)
